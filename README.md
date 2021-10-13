@@ -7,3 +7,5 @@
 - Disk Drive: LENSE30256GMSP34MEAT3TA 
 - Keyboard: Standard PS/2 Keyboard
 - Mouse: ELAN Input Device For WDF
+- Network Adapter: Intel(R) Dual Band Wireless-AC 8265 
+  Network Adapter: Intel(R) Ethernet Connection (4) I219-V
